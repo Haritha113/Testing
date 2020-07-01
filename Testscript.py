@@ -1,2 +1,2 @@
-s = input("Enter string")
-print(s)
+print("Hi Haritha")
+print("YOur Python script pulled from github to jenkins")
