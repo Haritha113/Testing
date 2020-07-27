@@ -1,2 +1,3 @@
-squares = [i * i for i in range(n)]
+
+squares = [i * i for i in range(int n)]
 print(squares)
