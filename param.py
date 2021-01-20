@@ -1,3 +1,3 @@
 n= 10
-squares = [i * i for i in range(int n)]
+squares = [i * i for i in range(n)]
 print(squares)
